@@ -1,0 +1,4 @@
+*.log
+!vip.log
+panda_packs/
+txt.txt
